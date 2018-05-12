@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6347'
     url: http://www.gutenberg.org/2009/agents/6347
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38873#The-Gentle-Reader
 gutenberg_issued: '2012-02-14'
 gutenberg_type: Text
 identifiers:
